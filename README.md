@@ -1,0 +1,2 @@
+# goqueue
+Queue in Golang.
